@@ -7,7 +7,6 @@ __pycache__/
 vehicle_env/
 venv/
 env/
-.env
 
 # Distribution / packaging
 build/
@@ -55,7 +54,6 @@ cover/
 .ipynb_checkpoints
 
 # VS Code
-.vscode/
 
 # PyCharm
 .idea/
@@ -66,3 +64,5 @@ cover/
 *.onnx
 videos/
 dataset/
+config.bat
+node_modules
